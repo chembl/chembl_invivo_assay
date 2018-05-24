@@ -21,7 +21,7 @@ __doc__ = """
 #################################################
 usage = "Usage: %prog [options] -i input_invivo_assays.csv, -hock Hock_table.csv, -o annotated_invivo_assays.csv" + __doc__
 # Example command line instruction:
-# bsub python Annotate_invivo_assays_commandline.py -i invivo_assays_unannotated_chembl24_24May2018.csv -hock Vogel_Hock_reference_assays.csv -o annotated_invivo_assays_chembl24_2018May24.csv
+# bsub python Annotate_invivo_assays_commandline.py -i invivo_assays.csv -hock Hock_reference_assays.csv -o annotated_invivo_assays.csv
 ##############################################
 
 
