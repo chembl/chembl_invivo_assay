@@ -1,6 +1,3 @@
-#!/nfs/panda/chembl/sw/anaconda3/bin/python
-# coding: utf-8
-
 # Use pandas python module to view and analyse data
 import pandas as pd
 import time
