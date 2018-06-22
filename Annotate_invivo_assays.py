@@ -126,7 +126,7 @@ def Annotate(assay_df, Hock_df):
 if __name__ == '__main__':
     
     #Set correct path: 
-    path = '/nfs/panda/chembl/shared/hecatos/invivo_annotation/'
+    path = '/path_to_folder_containing_files/'
 #     sys.stdout = open(path+"log_annotate_invivo_assays.txt", 'w') #Redirect std_out to file in output folder!!
     
     #Define parser
