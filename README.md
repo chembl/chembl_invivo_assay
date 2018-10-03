@@ -1,5 +1,5 @@
 # chembl_invivo_assay
-There are three files available: (i) an sql file to identify the in vivo assays,  (ii) a Python 3 script to annotate the in vivo assay dataset by reference animal model, by disease or phenotypic endpoint with pharmacological or toxicological relevance, and by MeSH terms, and (iii) a csv file describing the assay classification. 
+This repository identifies and annotates in vivo assays from ChEMBL. There are three files available: (i) an sql file to identify the in vivo assays,  (ii) a Python 3 script to annotate the in vivo assay dataset by reference animal model, by disease or phenotypic endpoint with pharmacological or toxicological relevance, and by MeSH terms, and (iii) a csv file describing the assay classification. 
 
 Using these scripts, researchers can reproduce how the in vivo assay dataset has been identified
 and, in conjunction with the assay classification table that includes manually assigned text patterns, perform annotation of the in vivo assay dataset.
